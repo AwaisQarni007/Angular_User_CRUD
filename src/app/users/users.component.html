@@ -1,0 +1,31 @@
+<div class="container">
+
+    <div class="row">
+        <div *ngFor="let user of visibleUsers" class="col-lg-3 col-md-4 col-sm-6 mb-3">
+            <div class="card">
+                <img [src]="user.profilePictureUrl" class="mx-auto card-img-top w-50 mt-3" alt="User Image">
+                <div class="card-body">
+                    <h6 class="card-title">User Name:</h6>
+                    <p class="card-text">{{ user.name }}</p>
+                    <h6 class="card-title">Email:</h6>
+                    <p class="card-text">{{ user.email }}</p>
+                    <div class="text-center mt-3">
+                        <button type="button" class="btn btn-primary mx-2" data-bs-toggle="modal"
+                            data-bs-target="#editUserModal" (click)="setSelectedUserId(user.id)">
+                            Edit User
+                        </button>
+                        <button class="btn btn-danger mx-2" (click)="deleteUser(user.id)">Delete</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-3" *ngIf="showLoadMoreButton">
+        <div class="col-12 text-center">
+            <button class="btn btn-primary" (click)="loadMore()">Load More</button>
+        </div>
+    </div>
+
+</div>
+<app-edit-user-modal></app-edit-user-modal>

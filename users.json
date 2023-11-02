@@ -1,0 +1,238 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "email": "emily.brown@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 5,
+      "name": "Christopher Lee",
+      "email": "christopher.lee@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 6,
+      "name": "Ava Anderson",
+      "email": "ava.anderson@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 7,
+      "name": "William Wilson",
+      "email": "william.wilson@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 8,
+      "name": "Sophia Martinez",
+      "email": "sophia.martinez@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 9,
+      "name": "Daniel Taylor",
+      "email": "daniel.taylor@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 10,
+      "name": "Olivia Moore",
+      "email": "olivia.moore@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 11,
+      "name": "Liam Johnson",
+      "email": "liam.johnson@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 12,
+      "name": "Emma Lee",
+      "email": "emma.lee@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 13,
+      "name": "Alexander Baker",
+      "email": "alexander.baker@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 14,
+      "name": "Mia Phillips",
+      "email": "mia.phillips@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 15,
+      "name": "James Wright",
+      "email": "james.wright@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 16,
+      "name": "Amelia Garcia",
+      "email": "amelia.garcia@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 17,
+      "name": "Benjamin Martinez",
+      "email": "benjamin.martinez@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 18,
+      "name": "Ella Hall",
+      "email": "ella.hall@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 19,
+      "name": "Henry Adams",
+      "email": "henry.adams@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 20,
+      "name": "Chloe Young",
+      "email": "chloe.young@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 21,
+      "name": "Jacob Rodriguez",
+      "email": "jacob.rodriguez@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 22,
+      "name": "Lily Nelson",
+      "email": "lily.nelson@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 23,
+      "name": "Michael Lee",
+      "email": "michael.lee@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 24,
+      "name": "Grace Allen",
+      "email": "grace.allen@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 25,
+      "name": "Daniel Ward",
+      "email": "daniel.ward@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 26,
+      "name": "Zoe Perez",
+      "email": "zoe.perez@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 27,
+      "name": "Oliver Hall",
+      "email": "oliver.hall@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 28,
+      "name": "Madison White",
+      "email": "madison.white@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 29,
+      "name": "Ethan Hernandez",
+      "email": "ethan.hernandez@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 30,
+      "name": "Ava Lee",
+      "email": "ava.lee@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 31,
+      "name": "Alexander Miller",
+      "email": "alexander.miller@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 32,
+      "name": "Harper Moore",
+      "email": "harper.moore@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 33,
+      "name": "Joseph Cooper",
+      "email": "joseph.cooper@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 34,
+      "name": "Scarlett Bennett",
+      "email": "scarlett.bennett@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 35,
+      "name": "William Turner",
+      "email": "william.turner@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 36,
+      "name": "Aria Collins",
+      "email": "aria.collins@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 37,
+      "name": "Lucas Jenkins",
+      "email": "lucas.jenkins@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 38,
+      "name": "Emma Reed",
+      "email": "emma.reed@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    },
+    {
+      "id": 39,
+      "name": "Aiden Carter",
+      "email": "aiden.carter@example.com",
+      "profilePictureUrl": "../assets/img/male.webp"
+    },
+    {
+      "id": 40,
+      "name": "Mia Simmons",
+      "email": "mia.simmons@example.com",
+      "profilePictureUrl": "../assets/img/female.webp"
+    }
+  ]
+}
